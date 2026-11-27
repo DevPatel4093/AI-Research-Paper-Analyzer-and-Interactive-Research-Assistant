@@ -1,4 +1,4 @@
-# ResearchAI – AI-Powered Research Paper Analyzer and Interactive Research Assistant
+# ResearchAI – AI-Powered Research Paper Analyzer📄📚 and Interactive Research Assistant🔬🔍💡🤖
 
 <p align="center">
   <strong>Understand. Analyze. Explore. Discover.</strong>
